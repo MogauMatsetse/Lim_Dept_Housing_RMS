@@ -1,6 +1,4 @@
-# Lim_Dept_Housing_RMS
-Record Management System
-Limpopo Housing - Record Management System 
+Limpopo Housing - Record Management System (Frontend)
 
 This is a React-only demo frontend for the Limpopo Department of Housing record management system.
 It includes:
